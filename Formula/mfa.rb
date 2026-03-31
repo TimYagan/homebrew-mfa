@@ -1,8 +1,8 @@
 class Mfa < Formula
   desc "Accurate, performant file size analysis tool for macOS"
   homepage "https://github.com/TimYagan/mac-file-analyzer"
-  url "https://github.com/TimYagan/mac-file-analyzer/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "de50bd1a79b37b7a33c1f1078af3b58c3548167b850dad5099bf4140c1af9264"
+  url "https://github.com/TimYagan/mac-file-analyzer/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "00fd4e08d5cb7307f3a55c6eb298ad9f18d2fe9c4fd40cc35278ec668e8ae254"
   license "MIT"
 
   depends_on "rust" => :build
