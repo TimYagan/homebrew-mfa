@@ -13,6 +13,7 @@ For source-level changes, see the [mfa CHANGELOG](https://github.com/TimYagan/ma
 
 ### Changed
 - Bump formula to mfa v0.1.3
+- Improved installation instructions in the README
 
 [0.1.3]: https://github.com/TimYagan/homebrew-mfa/releases/tag/v0.1.3
 

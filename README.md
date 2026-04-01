@@ -3,10 +3,10 @@
 Official Homebrew tap for [mfa](https://github.com/TimYagan/mac-file-analyzer), a fast macOS file analyzer written in Rust.
 
 ## Installation
+The current formula builds from source and may install Rust build dependencies on first install.
 
 ```bash
-brew tap TimYagan/mfa
-brew install mfa
+brew install TimYagan/mfa/mfa
 ```
 
 ## Upgrade
